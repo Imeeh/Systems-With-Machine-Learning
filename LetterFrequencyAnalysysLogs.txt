@@ -1014,5 +1014,3 @@ Letters in the First Half:  {'d', 'o', 's', 't', 'e', 'l', 'i', 'n', 'h', 'a', '
 Letters in the Second Half:  {'y', 'w', 'c', 'p', 'f', 'g'}
 
 ############################ Program Completed ############################
-
-C:\Users\faisa\OneDrive\Documents\University of New Haven\Spring 2017\Script Programming_Python\Programs\Assignments\LetterFrequencyAnalysis>
